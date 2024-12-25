@@ -89,3 +89,5 @@ Here is our [Discord](https://discord.gg/gTnDxQ6) [very inactive]
 
 * [Bromite SystemWebView wiki page for reference](https://github.com/bromite/bromite/wiki/Installing-SystemWebView). **The information there is outdated and has a risk of bricking your device, but is linked for reference.**
 * [Upstream repository](https://github.com/androidacy/WebviewSwitcher). All development is done here until stable release.
+
+# ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ I'm searching for a job in tech (or outside of it) in remote (or on-site), if you have any clues
